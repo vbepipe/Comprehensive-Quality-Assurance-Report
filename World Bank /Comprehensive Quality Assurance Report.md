@@ -449,7 +449,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 <br>
 
-Report URL: https://data360.worldbank.org/en/report/GR-DPTR_2025
+Original Report URL: https://data360.worldbank.org/en/report/GR-DPTR_2025
 
 <br>
 
