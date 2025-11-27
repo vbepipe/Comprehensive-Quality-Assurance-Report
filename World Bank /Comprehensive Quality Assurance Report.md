@@ -440,7 +440,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 <br>
 
-[*Original Report Link: Digital Progress and Trends Report 2025: Strengthening AI Foundations*](https://data360.worldbank.org/en/report/GR-DPTR_2025)
+[*Original World Bank Report Link: Digital Progress and Trends Report 2025: Strengthening AI Foundations*](https://data360.worldbank.org/en/report/GR-DPTR_2025)
 
 <br>
 
