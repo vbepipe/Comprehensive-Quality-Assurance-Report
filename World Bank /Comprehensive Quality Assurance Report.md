@@ -121,7 +121,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 <br>
 
-## **List of Issues Found**
+## **Quality Assurance Findings**
 
 ### **Summary**
 
