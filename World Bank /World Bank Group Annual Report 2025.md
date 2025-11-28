@@ -1,6 +1,6 @@
 ***
 
-# Executive Analysis: The "Jobs" Pivot
+# Executive Analysis: World Bank Group Annual Report 2025
 **Report Grade: 9.0/10** | **Performance Grade: 8.5/10**
 
 The 2025 Annual Report marks a definitive shift in the World Bank Group’s operational philosophy under President Ajay Banga. The narrative has moved from broad "development" to a hyper-focused "Jobs and Speed" agenda. The report successfully articulates a transition from a slow-moving multilateral bank to a faster, impact-oriented "knowledge and solutions" bank.
