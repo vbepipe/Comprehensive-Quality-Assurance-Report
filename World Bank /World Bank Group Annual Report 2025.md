@@ -304,5 +304,14 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
 ---
 
+<br>
+
+[*Source: World Bank Group Annual Report 2025*](https://www.worldbank.org/en/about/annual-report)
+
+<br>
+
+---
+
+<br>
 <br> <br> <br>
 
