@@ -306,12 +306,13 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
 <br>
 
-[*Source: World Bank Group Annual Report 2025*](https://www.worldbank.org/en/about/annual-report)
+> [*Source: World Bank Group Annual Report 2025*](https://www.worldbank.org/en/about/annual-report)
 
 <br>
+
+> **Disclaimer:** This analysis is for educational purposes only. The goal is to demonstrate AI-assisted quality assurance methods, not to critique or represent the views of the World Bank or its authors.
 
 ---
 
-<br>
 <br> <br> <br>
 
