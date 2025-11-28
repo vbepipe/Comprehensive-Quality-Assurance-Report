@@ -94,7 +94,215 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
 **Conclusion:** The World Bank Group Annual Report 2025 depicts an institution in the midst of a successful turnaround. It has shed its reputation for sluggishness and successfully integrated climate action into its core development mandate. The focus on **Jobs** provides a necessary pragmatic lens for the next decade of development.
 
+---
+
+<br> 
+
+# List of Issues Found
+
+1. **Issue ID:** 001
+   
+   **Category:** Data Consistency / Definitions
+
+   **Page Number from report:** 5 (Letter from President) vs. 15 (Table 1)
+
+   **Quote from report:**
+   - Page 5: "In fiscal 2025 alone, the World Bank Group delivered **$118.5 billion** in financing..."
+   - Page 15 (Table 1): "WBG Commitments... 2025... **161,912** [millions of dollars]" ($161.9 billion).
+   
+   **Explanation of the issue:** There is a massive, unexplained discrepancy ($43.4 billion) between the headline "delivered financing" figure and the "Commitments" table. The $118.5 billion figure appears to represent "Own Account" commitments (excluding mobilization), while Table 1 includes mobilization and short-term finance. Presenting these contradictory totals without immediate methodological distinction confuses the reader regarding the institution's actual financial output.
+
+   **Severity:** High
+
+   **Suggested fix:** Explicitly label the $118.5 billion figure as "Own-Account Commitments" (or the specific aggregate used) and add a footnote reconciling it with the $161.9 billion total shown in Table 1.
+
 ***
+
+2. **Issue ID:** 002
+
+   **Category:** Data / Missing Information
+
+   **Page Number from report:** 13 (Scorecard)
+
+   **Quote from report:** "New or better jobs, including number for women and youth: **Coming FY26**"
+
+   **Explanation of the issue:** The report is titled "Creating Jobs, Growing Economies," and the President's letter states, "we made job creation the focus of everything we do." However, the specific Scorecard metric for tracking jobs contains no data for FY25. This is a critical gap between the report's central narrative theme and the reported results.
+
+   **Severity:** High
+
+   **Suggested fix:** Provide a preliminary estimate, a proxy metric for FY25, or a detailed sidebar explaining why the data is unavailable despite the strategic focus.
+
+***
+
+3. **Issue ID:** 003
+
+   **Category:** Data / Missing Information
+
+   **Page Number from report:** 13 (Scorecard)
+
+   **Quote from report:** "Net greenhouse gas emissions per year... **\*** [asterisk] ... **-332M** [Expected]"
+
+   **Explanation of the issue:** A key climate metric has no "Achieved" data for FY25, only an asterisk referencing a future disclosure in FY26. Given the report claims "48 percent" of finance produced climate co-benefits, the total absence of the emissions outcome data is a material omission.
+
+   **Severity:** High
+
+   **Suggested fix:** Provide an interim estimate or a specific explanation of the data collection delay (e.g., "Data verification in progress") rather than a generic deferral.
+
+***
+
+4. **Issue ID:** 004
+
+   **Category:** Data Consistency / Clarity
+
+   **Page Number from report:** 4 (Footnote 1) vs. 15 (Table 1) vs. 111 (Table 16)
+
+   **Quote from report:**
+   - Page 4: "Includes... **$28.3 billion** from IFC..."
+   - Page 15: "IFC Commitments... **71,698**" ($71.7 billion).
+   
+   **Explanation of the issue:** The Executive Directors' letter cites IFC commitments as $28.3 billion, while the Financial Summary cites $71.7 billion.
+   *Analysis:* The $28.3 billion figure matches the sum of IFC's Long-Term Own Account ($18.189B) and Short-Term Own Account ($10.095B) found in Table 16 (Page 111). However, the text does not define this as "Own Account," leading to confusion when compared to the "Total Commitments" table.
+
+   **Severity:** High
+
+   **Suggested fix:** Change the Page 4 footnote to read: "$28.3 billion from IFC (Own Account)" to distinguish it from the Total Commitment figures used elsewhere.
+
+***
+
+5. **Issue ID:** 005
+
+   **Category:** Data / Performance Gap
+
+   **Page Number from report:** 13 (Scorecard)
+
+   **Quote from report:**
+   - "Gigawatts of renewable energy capacity enabled: **34** [Achieved] **109** [Expected]"
+   - "Beneficiaries with enhanced resilience to climate risks: **136M** [Achieved] **425M** [Expected]"
+   
+   **Explanation of the issue:** The Scorecard reveals significant underperformance against expectations (e.g., Renewable Energy is at ~31% of target; Resilience is at ~32% of target). The report provides no management commentary or explanation for these substantial shortfalls.
+
+   **Severity:** High
+
+   **Suggested fix:** Add a "Management Commentary" section below the Scorecard to explain the variances (e.g., project delays, ambitious target setting, or measurement lags).
+
+***
+
+6. **Issue ID:** 006
+
+   **Category:** Citation / Methodology
+
+   **Page Number from report:** 5 (President's Letter)
+
+   **Quote from report:** "In the next decade, 1.2 billion young people will enter the workforce... only 400 million jobs are expected to be created."
+
+   **Explanation of the issue:** This statistic is the foundational argument for the report's theme ("The Jobs Crisis"). However, no citation, source, or methodology is provided. Readers cannot verify if this is a World Bank projection or an external ILO/UN figure.
+
+   **Severity:** Medium
+
+   **Suggested fix:** Add a footnote citing the specific report or model from which these figures are derived.
+
+***
+
+7. **Issue ID:** 007
+
+   **Category:** Data Consistency
+
+   **Page Number from report:** 48 vs. 52
+
+   **Quote from report:**
+    - Page 48: "In fiscal 2025, IBRD... raised approximately **$64 billion**..."
+    - Page 52: "In fiscal 2025, IBRD raised about **$64.5 billion**..."
+
+   **Explanation of the issue:** There is a $500 million discrepancy in the reported capital raised by IBRD between the Sustainable Finance section and the Financial Model section.
+
+   **Severity:** Medium
+
+   **Suggested fix:** Standardize the figure to $64.5 billion (or the exact audited figure) across all sections.
+
+***
+
+8. **Issue ID:** 008
+
+   **Category:** Data Consistency / Regional
+
+   **Page Number from report:** 17 (Latin America) vs. 58 (Table 17)
+
+   **Quote from report:**
+   - Page 17: "IFC committed **$18 billion**..."
+   - Page 58: "Latin America and the Caribbean... **4,298** [million]" ($4.3 billion).
+   
+   **Explanation of the issue:** The regional narrative claims $18 billion, while the detailed financial table shows only $4.3 billion. The narrative likely includes mobilization and short-term finance, but this is not stated, making the financial table appear incorrect by a factor of 4x.
+
+   **Severity:** Medium
+
+   **Suggested fix:** In the regional narrative, specify "IFC committed $18 billion (including mobilization and short-term finance)" to align with the appendix data.
+
+***
+
+9. **Issue ID:** 009
+
+    **Category:** Scope / Definitions
+
+    **Page Number from report:** 10 vs. 21
+
+    **Quote from report:**
+    - Page 10: "Provide access to electricity to 300 million people in **Sub-Saharan Africa**..."
+    - Page 21: "Mission 300... to connect 300 million people in **Africa**..."
+
+    **Explanation of the issue:** The report alternates between "Sub-Saharan Africa" and "Africa" (the continent) for the Mission 300 goal. This creates ambiguity regarding whether North African nations are included in the target.
+
+    **Severity:** Medium
+
+    **Suggested fix:** Standardize the terminology. If the target is specifically Sub-Saharan Africa, use that term consistently.
+
+***
+
+10. **Issue ID:** 010
+
+    **Category:** Data / Unexplained Variance
+
+    **Page Number from report:** 15 (Table 2)
+
+    **Quote from report:** Trust Funds "Commitments: **24,303**" [FY25] vs "**7,219**" [FY24]
+
+    **Explanation of the issue:** Trust fund commitments more than tripled (237% increase) year-over-year. Such a massive variance in financial statements requires a footnote or narrative explanation (e.g., a specific new fund or accounting change).
+
+    **Severity:** Medium
+
+    **Suggested fix:** Add a footnote to Table 2 explaining the driver of this increase.
+
+***
+
+11. **Issue ID:** 011
+
+    **Category:** Math Error
+
+    **Page Number from report:** 4 (Footnote 1)
+
+    **Quote from report:** "Includes $40.9 billion... $39.9 billion... $28.3 billion... and $9.5 billion... Total commitments reached $118.5 billion"
+
+    **Explanation of the issue:** The sum of the components ($40.9 + $39.9 + $28.3 + $9.5) equals **$118.6 billion**, not $118.5 billion.
+
+    **Severity:** Low
+
+    **Suggested fix:** Adjust the total to $118.6 billion or adjust the rounding of the components so they sum to the headline figure.
+
+---
+
+## Summary
+
+*   **Total issues found:** 11
+    
+*   **Top 5 most critical problems:**
+    1.  **Conflicting Financial Totals:** The discrepancy between the headline $118.5B and the Table 1 $161.9B is unexplained and confusing.
+    2.  **Missing Jobs Data:** The report is themed around job creation, yet the specific Scorecard metric for jobs has no data for FY25.
+    3.  **Missing Climate Data:** Net GHG emissions data is absent despite high-profile claims of climate co-benefits.
+    4.  **IFC Commitment Confusion:** The $28.3B figure cited in the intro conflicts with the $71.7B figure in the financial summary without explanation of "Own Account" vs. "Mobilization."
+    5.  **Scorecard Underperformance:** Significant gaps between "Expected" and "Achieved" results (e.g., Renewable Energy) are presented without management commentary.
+
+<br>
+
+---
 
 <br> <br> <br>
 
