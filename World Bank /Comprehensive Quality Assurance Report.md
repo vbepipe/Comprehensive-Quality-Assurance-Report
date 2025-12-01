@@ -160,22 +160,6 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 5.  **Issue ID:** 05
     
-    **Category:** Writing / Typographical Error
-    
-    **Page Number:** 43
-    
-    **Quote from report:** "Half a liter of water evaporates for each ChatGPT conversation of about 2950 queries Brussels Times Newsroom 2024."
-    
-    **Explanation of the issue:** There is a missing hyphen or separator in "2950". The context implies a range (20 to 50 queries), as 2,950 queries for a single conversation is implausible for the water consumption metric cited.
-    
-    **Severity:** High (Changes meaning)
-    
-    **Suggested fix:** Change to "20–50 queries". 
-
----
-
-6.  **Issue ID:** 06
-    
     **Category:** Data / Text-Chart Discrepancy
     
     **Page Number:** 45
@@ -190,7 +174,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-7.  **Issue ID:** 07
+6.  **Issue ID:** 06
     
     **Category:** Poorly Defined Terms
     
@@ -206,11 +190,11 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-8.  **Issue ID:** 08
+7.  **Issue ID:** 07
 
     **Category:** Writing / Typos
 
-    **Page Number:** 6
+    **Page Number:** 0, Location before Contents.
 
     **Quote from report:** "Cover design: Veronical Elena Gadea / World Bank Group"
 
@@ -222,22 +206,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-9.  **Issue ID:** 09
-
-    **Category:** Data / Formatting
-
-    **Page Number:** xv
-
-    **Quote from report:** "More than 50 of open-source AI training data sets are in English..."
-
-    **Explanation of the issue:** The percentage symbol is missing after "50".
-
-    **Severity:** Medium
-
-    **Suggested fix:** Change to "More than 50%..." or "More than 50 percent...". 
----
-
-10. **Issue ID:** 10
+8. **Issue ID:** 08
 
     **Category:** Writing / Grammar
 
@@ -253,23 +222,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-11. **Issue ID:** 11
-
-    **Category:** Data / Inconsistency
-
-    **Page Number:** 27 (Figure 2.1)
-
-    **Quote from report:** Figure 2.1 bars for 2022 sum to: 3+5+57+32 = 97%.
-
-    **Explanation of the issue:** The data in the chart sums to 97%, leaving 3% unaccounted for without a "No Coverage" label or explanation.
-
-    **Severity:** Low
-
-    **Suggested fix:** Add a label for the remaining percentage or a note explaining the gap.
-
----
-
-12. **Issue ID:** 12
+9. **Issue ID:** 09
 
     **Category:** Formatting / Abbreviations
 
