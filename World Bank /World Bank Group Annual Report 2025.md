@@ -225,7 +225,7 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
    **Category:** Data Consistency / Regional
 
-   **Page Number from report:** 17 (Latin America) vs. 58 (Table 17)
+   **Page Number from report:** 30 (Latin America) vs. 112 (Table 17)
 
    **Quote from report:**
    - Page 17: "IFC committed **$18 billion**..."
@@ -243,10 +243,10 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
     **Category:** Scope / Definitions
 
-    **Page Number from report:** 10 vs. 21
+    **Page Number from report:** 11 vs. 21
 
     **Quote from report:**
-    - Page 10: "Provide access to electricity to 300 million people in **Sub-Saharan Africa**..."
+    - Page 11: "Provide access to electricity to 300 million people in **Sub-Saharan Africa**..."
     - Page 21: "Mission 300... to connect 300 million people in **Africa**..."
 
     **Explanation of the issue:** The report alternates between "Sub-Saharan Africa" and "Africa" (the continent) for the Mission 300 goal. This creates ambiguity regarding whether North African nations are included in the target.
