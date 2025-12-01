@@ -238,7 +238,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-13. **Issue ID:** 13
+10. **Issue ID:** 10
 
     **Category:** Writing / Clarity
 
@@ -254,11 +254,11 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-14. **Issue ID:** 14
+11. **Issue ID:** 11
 
     **Category:** Data / Methodology
 
-    **Page Number:** 44-45
+    **Page Number:** xiv and 39
 
     **Quote from report:** "In 2024, 50 percent of global secure internet servers were in the United States... just 9 percent were in the rest of the world."
 
@@ -270,7 +270,7 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
-15. **Issue ID:** 15
+12. **Issue ID:** 12
 
     **Category:** Writing / Terminology
 
