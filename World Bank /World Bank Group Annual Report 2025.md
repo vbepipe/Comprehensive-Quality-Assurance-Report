@@ -98,7 +98,7 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
 <br> 
 
-# List of Issues Found
+## **Quality Assurance Findings**
 
 1. **Issue ID:** 001
    
@@ -315,4 +315,3 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 ---
 
 <br> <br> <br>
-
