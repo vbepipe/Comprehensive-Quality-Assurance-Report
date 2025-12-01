@@ -104,10 +104,10 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
    
    **Category:** Data Consistency / Definitions
 
-   **Page Number from report:** 5 (Letter from President) vs. 15 (Table 1)
+   **Page Number from report:** 7 vs. 15 (Table 1)
 
    **Quote from report:**
-   - Page 5: "In fiscal 2025 alone, the World Bank Group delivered **$118.5 billion** in financing..."
+   - Page 7: "In fiscal 2025 alone, the World Bank Group delivered **$118.5 billion** in financing..."
    - Page 15 (Table 1): "WBG Commitments... 2025... **161,912** [millions of dollars]" ($161.9 billion).
    
    **Explanation of the issue:** There is a massive, unexplained discrepancy ($43.4 billion) between the headline "delivered financing" figure and the "Commitments" table. The $118.5 billion figure appears to represent "Own Account" commitments (excluding mobilization), while Table 1 includes mobilization and short-term finance. Presenting these contradictory totals without immediate methodological distinction confuses the reader regarding the institution's actual financial output.
