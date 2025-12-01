@@ -88,11 +88,11 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ---
 
+<br>
 
 ## **Quality Assurance Findings**
 
 ### **Summary**
-
 *   **Total issues found:** 15
 *   **Count by category:**
     *   Data / Mathematical / Consistency: 7
@@ -104,11 +104,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     2.  **Issue 01 (Temporal Inconsistency):** Referencing "mid-2025" data in a report published in 2025 suggests impossible timelines or incorrect dating.
     3.  **Issue 05 (Typo/Data):** "2950 queries" instead of "29-50 queries" drastically alters the environmental impact claim of ChatGPT.
     4.  **Issue 03 (Data Contradiction):** Conflicting statistics for YouTube language shares (8% vs 7.6%) and secondary languages (Arabic vs Spanish) across chapters.
-    5.  **Issue 07 (Undefined Term):** "Small AI" is a core recommendation of the report but lacks a technical definition, creating ambiguity. <br>
-
+    5.  **Issue 07 (Undefined Term):** "Small AI" is a core recommendation of the report but lacks a technical definition, creating ambiguity. 
+    
 ---
-
-<br>
 
 1.  **Issue ID:** 01
 
@@ -123,11 +121,8 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     **Severity:** High
     
     **Suggested fix:** Correct the text to "early 2025" or "March 2025" to match the data source.
-<br>
 
 ---
-
-<br>
 
 2.  **Issue ID:** 02
 
@@ -141,11 +136,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** High
 
-    **Suggested fix:** Locate the correct source for the 2023 satellite data and update the citation. <br>
+    **Suggested fix:** Locate the correct source for the 2023 satellite data and update the citation. 
 
 ---
-
-<br>
 
 3.  **Issue ID:** 03
     
@@ -161,11 +154,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** High
     
-    **Suggested fix:** Standardize the data source and figures used for YouTube language distribution across the report. <br>
+    **Suggested fix:** Standardize the data source and figures used for YouTube language distribution across the report. 
 
 ---
-
-<br>
 
 4.  **Issue ID:** 04
     
@@ -179,11 +170,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** Medium
     
-    **Suggested fix:** Adjust rounding so the total equals 100% or add a disclaimer. <br>
+    **Suggested fix:** Adjust rounding so the total equals 100% or add a disclaimer. 
 
 ---
-
-<br>
 
 5.  **Issue ID:** 05
     
@@ -197,11 +186,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** High (Changes meaning)
     
-    **Suggested fix:** Change to "20–50 queries". <br>
+    **Suggested fix:** Change to "20–50 queries". 
 
 ---
-
-<br>
 
 6.  **Issue ID:** 06
     
@@ -215,11 +202,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** Low
     
-    **Suggested fix:** Update text to "48 percent" or "nearly half" to align strictly with the figure. <br>
+    **Suggested fix:** Update text to "48 percent" or "nearly half" to align strictly with the figure. 
 
 ---
-
-<br>
 
 7.  **Issue ID:** 07
     
@@ -233,11 +218,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** Medium
     
-    **Suggested fix:** Add a specific definition or technical parameter for "Small AI" in the Introduction. <br>
+    **Suggested fix:** Add a specific definition or technical parameter for "Small AI" in the Introduction.
 
 ---
-
-<br>
 
 8.  **Issue ID:** 08
 
@@ -251,11 +234,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Low
 
-    **Suggested fix:** Change "Veronical" to "Veronica". <br>
+    **Suggested fix:** Change "Veronical" to "Veronica". 
 
 ---
-
-<br>
 
 9.  **Issue ID:** 09
 
@@ -269,11 +250,8 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Medium
 
-    **Suggested fix:** Change to "More than 50%..." or "More than 50 percent...". <br>
-
+    **Suggested fix:** Change to "More than 50%..." or "More than 50 percent...". 
 ---
-
-<br>
 
 10. **Issue ID:** 10
 
@@ -287,11 +265,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Low
 
-    **Suggested fix:** Change to "emerging formats like video offer new opportunities". <br>
+    **Suggested fix:** Change to "emerging formats like video offer new opportunities". 
 
 ---
-
-<br>
 
 11. **Issue ID:** 11
 
@@ -305,11 +281,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Low
 
-    **Suggested fix:** Add a label for the remaining percentage or a note explaining the gap.<br>
+    **Suggested fix:** Add a label for the remaining percentage or a note explaining the gap.
 
 ---
-
-<br>
 
 12. **Issue ID:** 12
 
@@ -323,11 +297,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Medium
 
-    **Suggested fix:** Use distinct abbreviations (e.g., "SAS" for South Asia) or ensure context is explicit in every usage. <br>
+    **Suggested fix:** Use distinct abbreviations (e.g., "SAS" for South Asia) or ensure context is explicit in every usage. 
 
 ---
-
-<br>
 
 13. **Issue ID:** 13
 
@@ -341,11 +313,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Medium
 
-    **Suggested fix:** Remove the note or correct it to "GPT: Generative Pre-trained Transformer." <br>
+    **Suggested fix:** Remove the note or correct it to "GPT: Generative Pre-trained Transformer."
 
 ---
-
-<br>
 
 14. **Issue ID:** 14
 
@@ -359,11 +329,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Severity:** Medium
 
-    **Suggested fix:** Explicitly state if China is included in "Rest of the World" or "Other HICs" (unlikely), or if it is excluded. <br>
+    **Suggested fix:** Explicitly state if China is included in "Rest of the World" or "Other HICs" (unlikely), or if it is excluded.
 
 ---
-
-<br>
 
 15. **Issue ID:** 15
 
@@ -377,11 +345,9 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     
     **Severity:** Medium
     
-    **Suggested fix:** Change to "Traditional AI approaches such as ML..." <br>
+    **Suggested fix:** Change to "Traditional AI approaches such as ML..."
 
 ---
-
-<br>
 
 > [*Source: Digital Progress and Trends Report 2025: Strengthening AI Foundations*](https://data360.worldbank.org/en/report/GR-DPTR_2025)
 
