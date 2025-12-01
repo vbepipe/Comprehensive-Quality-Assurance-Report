@@ -191,7 +191,7 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
    **Category:** Citation / Methodology
 
-   **Page Number from report:** 5 (President's Letter)
+   **Page Number from report:** 6 (President's Letter)
 
    **Quote from report:** "In the next decade, 1.2 billion young people will enter the workforce... only 400 million jobs are expected to be created."
 
