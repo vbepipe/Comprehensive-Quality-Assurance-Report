@@ -96,11 +96,11 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
     **Category:** Factual / Temporal Inconsistency
 
-    **Page Number:** xiii (Main Messages) & 16
+    **Page Number:** xiv (Main Messages), 2 & 16
 
-    **Quote from report:** "Over 40 percent of ChatGPT’s global traffic came from MICs in mid-2025..." (Page xiii) vs Figure 1.3 x-axis ending at "March 1, 2025" (Page 16).
+    **Quote from report:** "Over 40 percent of ChatGPT’s global traffic came from MICs in mid-2025..." (Page xiv & Page 2) vs Figure 1.3 x-axis ending at "March 1, 2025" (Page 16).
 
-    **Explanation of the issue:** The text claims data from "mid-2025," but the supporting figure only presents data through March 1, 2025. Additionally, referencing "mid-2025" data in a report published in 2025 implies a publication date late in the year, which conflicts with the forward-looking nature of a "2025 Report."
+    **Explanation of the issue:** On page xiv the text claims data from "mid-2025," but the supporting figure only presents data through March 1, 2025. Additionally, referencing "mid-2025" data in a report published in 2025 implies a publication date late in the year, which conflicts with the forward-looking nature of a "2025 Report." On page 2 the text claims data from "April 2025".
 
     **Severity:** High
     
