@@ -207,7 +207,7 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
 
    **Category:** Data Consistency
 
-   **Page Number from report:** 48 vs. 52
+   **Page Number from report:** 92 vs. 100
 
    **Quote from report:**
     - Page 48: "In fiscal 2025, IBRD... raised approximately **$64 billion**..."
