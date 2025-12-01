@@ -210,8 +210,8 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
    **Page Number from report:** 92 vs. 100
 
    **Quote from report:**
-    - Page 48: "In fiscal 2025, IBRD... raised approximately **$64 billion**..."
-    - Page 52: "In fiscal 2025, IBRD raised about **$64.5 billion**..."
+    - Page 92: "In fiscal 2025, IBRD... raised approximately **$64 billion**..."
+    - Page 100: "In fiscal 2025, IBRD raised about **$64.5 billion**..."
 
    **Explanation of the issue:** There is a $500 million discrepancy in the reported capital raised by IBRD between the Sustainable Finance section and the Financial Model section.
 
@@ -228,8 +228,8 @@ The report introduces a streamlined scorecard reduced to **22 outcome-focused me
    **Page Number from report:** 30 (Latin America) vs. 112 (Table 17)
 
    **Quote from report:**
-   - Page 17: "IFC committed **$18 billion**..."
-   - Page 58: "Latin America and the Caribbean... **4,298** [million]" ($4.3 billion).
+   - Page 30: "IFC committed **$18 billion**..."
+   - Page 112: "Latin America and the Caribbean... **4,298** [million]" ($4.3 billion).
    
    **Explanation of the issue:** The regional narrative claims $18 billion, while the detailed financial table shows only $4.3 billion. The narrative likely includes mobilization and short-term finance, but this is not stated, making the financial table appear incorrect by a factor of 4x.
 
