@@ -92,22 +92,6 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
 
 ## **Quality Assurance Findings**
 
-### **Summary**
-*   **Total issues found:** 15
-*   **Count by category:**
-    *   Data / Mathematical / Consistency: 7
-    *   Writing / Grammar / Typos: 5
-    *   Citation: 1
-    *   Formatting / Definitions: 2
-*   **Top 5 most critical problems:**
-    1.  **Issue 02 (Citation Error):** Citing a 2005 source for 2023 satellite data is a factual impossibility that undermines credibility.
-    2.  **Issue 01 (Temporal Inconsistency):** Referencing "mid-2025" data in a report published in 2025 suggests impossible timelines or incorrect dating.
-    3.  **Issue 05 (Typo/Data):** "2950 queries" instead of "29-50 queries" drastically alters the environmental impact claim of ChatGPT.
-    4.  **Issue 03 (Data Contradiction):** Conflicting statistics for YouTube language shares (8% vs 7.6%) and secondary languages (Arabic vs Spanish) across chapters.
-    5.  **Issue 07 (Undefined Term):** "Small AI" is a core recommendation of the report but lacks a technical definition, creating ambiguity. 
-    
----
-
 1.  **Issue ID:** 01
 
     **Category:** Factual / Temporal Inconsistency
@@ -348,6 +332,25 @@ The diagnosis is complete; the challenge is now financial. The "4Cs" require mas
     **Suggested fix:** Change to "Traditional AI approaches such as ML..."
 
 ---
+
+### **Summary**
+*   **Total issues found:** 15
+*   **Count by category:**
+    *   Data / Mathematical / Consistency: 7
+    *   Writing / Grammar / Typos: 5
+    *   Citation: 1
+    *   Formatting / Definitions: 2
+*   **Top 5 most critical problems:**
+    1.  **Issue 02 (Citation Error):** Citing a 2005 source for 2023 satellite data is a factual impossibility that undermines credibility.
+    2.  **Issue 01 (Temporal Inconsistency):** Referencing "mid-2025" data in a report published in 2025 suggests impossible timelines or incorrect dating.
+    3.  **Issue 05 (Typo/Data):** "2950 queries" instead of "29-50 queries" drastically alters the environmental impact claim of ChatGPT.
+    4.  **Issue 03 (Data Contradiction):** Conflicting statistics for YouTube language shares (8% vs 7.6%) and secondary languages (Arabic vs Spanish) across chapters.
+    5.  **Issue 07 (Undefined Term):** "Small AI" is a core recommendation of the report but lacks a technical definition, creating ambiguity. 
+    
+---
+
+<br>
+
 
 > [*Source: Digital Progress and Trends Report 2025: Strengthening AI Foundations*](https://data360.worldbank.org/en/report/GR-DPTR_2025)
 
